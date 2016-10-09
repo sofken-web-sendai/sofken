@@ -6,5 +6,6 @@
 </head>
 <body>
    <h1>Sofken WEB homepage</h1>
+   <p>This page is developing now</p>
 </body>
 </html>
